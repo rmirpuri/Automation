@@ -1,4 +1,4 @@
-package org.loblaw.brooklyn.automation;
+package org.loblaw.project.brooklyn;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

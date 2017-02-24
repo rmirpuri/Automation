@@ -1,4 +1,4 @@
-package org.loblaw.brooklyn.automation;
+package org.loblaw.project.brooklyn;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.WebDriver;
