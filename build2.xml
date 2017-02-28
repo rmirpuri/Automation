@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project name="Hello World Project" default="info">
+
+   <property file="build.properties"/>
+   
+   <target name="info">
+      <echo>Apache Ant version is ${buildversion} - You are at ${sitename} and name is ${name}</echo>
+      <echo>Java Version ${ant.java.version}</echo>
+      <echo>${ant.project.name}</echo>
+      <echo>${ant.project.default-target}</echo>
+      <echo>${ant.core.lib}</echo>
+      <echo>${ant.home}</echo>
+      <echo>${ant.library.dir}</echo>
+      <echo>${}</echo>
+      
+      
+   </target>
+   
+</project>
